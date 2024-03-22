@@ -88,3 +88,5 @@ Athena has the demonstrated performance to provide a solid analytical backend in
 When additional performance is required, data sets can be easily and seamlessly moved into Redshift for enhanced performance on an as-needed basis. 
 
 Cost effective and serverless, this platform has the potential to service many modern BI use cases for a fraction of the cost of traditional server-based solutions.  
+
+> More to come as this platform is explored further... stay tuned.
